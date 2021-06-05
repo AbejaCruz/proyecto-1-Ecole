@@ -39,3 +39,25 @@ El sistema ofrece integraciones con numerosas opciones de software líderes, inc
 <img src="https://kinsta.com/wp-content/uploads/2021/01/pasted-image-0-5.png"/>
 
 ### Enlistar las propuestas de la estrategia y por cada una explicar el motivo por el cual sería efectiva.
+
+<img src="https://i.ibb.co/nLfDv9r/slack.png" alt="slack">
+
+Desarrollando la estrategia, enlistaremos las propuestas que, desde nuestro punto de vista creemos que serán efectivas para Slack y darían un mayor crecimiento al aplicativo
+
+**1. Canales de voz**
+
+**2. Panel de Métricos de Equipo / de Negocio**
+
+El trabajo en equipo se ve fortalecido cuando todos los miembros de un equipo están en sincronía al conocer el avance de los objetivos a lograr.
+Actualmente los canales de comunicación dentro de Slack son en forma de conversación vertical. El incluir una estrategia que permita agregar y personalizar paneles donde la información de métricos se actualice de manera dinámica, en forma de bloques de información que puedan ser reacomodados y que pueda ser consultada por toda la organización o equipos dedicados ayudaría a mantener la visibilidad de lo que importa en un solo lugar sin salir de la aplicación. Esto apelaría al componente social del equipo el esfuerzo de cada uno suma al resultado final.
+
+**3. Pizarras interactivas**
+
+Por la interactividad de los equipos de trabajo, es necesario que las ideas expresadas sean entendidas de la mejor manera, a veces los textos pueden ser interpretados de muchas formas, el colocar la funcionalidad de las pizarras interactivas ayudará a los equipos a potenciar la visualización de las ideas donde pueden colocar: diagramas, dibujos e imagenes explicando las propuestas sin texto.
+
+**4. Onboarding para nuevos miembros de un equipo, donde se muestren roles y actividades**
+El crecimiento de los equipos de trabajo puede ser muy alto, por lo que es necesario que cuando se integre alguien tenga el mejor onboarding posible, integrar una funcionalidad donde se puedan ver los equipos de trabajo con miembros y roles puede ser muy util incluso para los líderes que tienen más de un proyecto a cargo.
+
+**5. Integraciones gratuitas**
+
+**6. Técnica Pomodoro**
