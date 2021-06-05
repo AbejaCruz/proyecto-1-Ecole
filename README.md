@@ -64,8 +64,13 @@ Actualmente los canales de comunicación dentro de Slack son en forma de convers
 Por la interactividad de los equipos de trabajo, es necesario que las ideas expresadas sean entendidas de la mejor manera, a veces los textos pueden ser interpretados de muchas formas, el colocar la funcionalidad de las pizarras interactivas ayudará a los equipos a potenciar la visualización de las ideas donde pueden colocar: diagramas, dibujos e imagenes explicando las propuestas sin texto.
 
 **4. Onboarding para nuevos miembros de un equipo, donde se muestren roles y actividades**
+
 El crecimiento de los equipos de trabajo puede ser muy alto, por lo que es necesario que cuando se integre alguien tenga el mejor onboarding posible, integrar una funcionalidad donde se puedan ver los equipos de trabajo con miembros y roles puede ser muy util incluso para los líderes que tienen más de un proyecto a cargo.
 
 **5. Integraciones gratuitas**
 
+Para mejorar la interactividad y la productividad de las pequeñas empresas, poder tener mas integraciones en un plan gratuito permitiria una mejor apropiacion de la herramienta, ya que mcuhas de las integraciones disponibles benefician en el crecimiento y el control del dia a dia.
+
 **6. Técnica Pomodoro**
+
+Para mejorar la administracion del tiempo dedicado a una actividad o tarea, seria perfecto poder cronometrar y tener alertas para cuando queremos enfocarnos en la realizacion una tarea, permitiendonos asi ser asi mas productivos y enfocados en el dia, tambie nos permite tener pausas activas mejorando asi la salud de los usuarios.
