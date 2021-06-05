@@ -46,6 +46,10 @@ Desarrollando la estrategia, enlistaremos las propuestas que, desde nuestro punt
 
 **1. Canales de voz**
 
+La organización de la conversación textual es uno de los súper poderes de Slack, sin embargo, a raíz de la reciente migración masiva a trabajo remoto muchos usuarios comentan la falta de una interacción social más dinámica e improvisada, estos espacios sucedían de manera natural en espacios físicos, y en la versión remota se han visto reducidos.
+Estas interacciones de carácter más improvisado tienen el potencial de iniciar conversaciones que puedan derivar en proyectos de mejora o de colaboración por medio de rebote de ideas espontáneas con otros compañeros y que permitan una obtención de retroalimentación más inmediata. Y no sólo para temas laborales, sino que la interacción puede ayudar a mejorar los lazos hacia dentro de los equipos.
+
+
 **2. Panel de Métricos de Equipo / de Negocio**
 
 El trabajo en equipo se ve fortalecido cuando todos los miembros de un equipo están en sincronía al conocer el avance de los objetivos a lograr.
