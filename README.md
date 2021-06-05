@@ -1,4 +1,8 @@
-# Proyecto 1 Ecole
+# Proyecto 1 - Ecole de Produit
+Integrantes del Equipo:
+- Diego Cruz
+- Ithzamary Vilchis
+- Denisse Rivas
 
 ## Slack 
 ### ¿En qué consiste y qué servicio ofrece?
