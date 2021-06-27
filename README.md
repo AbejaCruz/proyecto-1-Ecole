@@ -74,3 +74,24 @@ Para mejorar la interactividad y la productividad de las pequeñas empresas, pod
 **6. Técnica Pomodoro**
 
 Para mejorar la administracion del tiempo dedicado a una actividad o tarea, seria perfecto poder cronometrar y tener alertas para cuando queremos enfocarnos en la realizacion una tarea, permitiendonos asi ser asi mas productivos y enfocados en el dia, tambie nos permite tener pausas activas mejorando asi la salud de los usuarios.
+
+## Jobs to be Done
+
+Slack es un chat empresarial donde las personas se logran comunicar de manera efectiva, multiplataforma, en la cual se epude pasar de una conversacion formal a una informal con el uso de emojis y gif.
+
+## Propuestas de feature
+
+**1. Canales de voz**
+se crearia un canal adicional con la funcionalidad primero de enviar notas de voz unicamente por ese canal, mas adelante se prodria hacer la mejora que dicho canal permitiera llamadas grupales, solo con la funcionalidad de audio; nada de video.
+
+**2. Panel de Métricos de Equipo / de Negocio**
+
+**3. Pizarras interactivas**
+
+**4. Onboarding para nuevos miembros de un equipo, donde se muestren roles y actividades**
+
+**5. Integraciones gratuitas**
+Al tener algunas integraciones gratuitas y un maximo de estas; solo es cuestion de aumentar ese maximo a un numero conveniente y que sea llamativo tanto para usuarios nuevos como antiguos.
+
+**6. Técnica Pomodoro**
+Principalmente lanzaria en la interface sea boton o opcion desplejable en la cual se active un cronometro, el cual tiene una cuenta regresiva de 25 min lpaso en el cual se trabajara en alguna tarea concentradamente e intensiva, terminado este tiempo abra una alarma o notificacion para tomar und escanso el cual automaticamente se iniciara el cornometro pero esto vez la cuenta regresiva sera de 5 min, esta funcionalidad se puede mejorar mas adelante integrando con el bot de slack, para que con un comando escrito se pueda activar el pomodoro, se podria setear el tiempo de trabajo y el tiempo de descanso pero por defecto seria 25/5,  las notificaciones podrian funcionar con notificaciones o mensajes.
